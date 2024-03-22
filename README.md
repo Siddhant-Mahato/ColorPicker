@@ -29,6 +29,4 @@ To run the project locally, use the following command:
 
 🌐 Open your web browser and navigate to `http://localhost:3000` to view the project.
 
-## License
-📄 Include your project's license information here.
-```
+
